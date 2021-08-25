@@ -1,4 +1,4 @@
-# events-app
+# clothing-app
 
 ## Project setup
 ```
